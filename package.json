@@ -1,0 +1,13 @@
+{
+  "name": "korean-random-username",
+  "version": "0.0.4",
+  "description": "make random korean username for developers",
+  "main": "bin/index.js",
+  "keywords": [
+    "korean",
+    "username",
+    "random"
+  ],
+  "author": "hero.jo",
+  "license": "MIT"
+}
