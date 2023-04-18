@@ -3,11 +3,22 @@
   "version": "0.0.4",
   "description": "make random korean username for developers",
   "main": "bin/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jyy9501/korean-random-username"
+  },
+  "author": {
+    "name": "hero.jo",
+    "email": "jyy9501@gmail.com"
+  },
   "keywords": [
     "korean",
     "username",
     "random"
   ],
-  "author": "hero.jo",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jyy9501/korean-random-username/issues"
+  },
+  "homepage": "https://github.com/jyy9501/korean-random-username#readme"
 }
